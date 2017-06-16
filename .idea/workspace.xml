@@ -1,79 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0025276-948c-4dfd-b352-c4395b2ed846" name="Default" comment="trying to fix broken github">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/AngularCliAspNetCoreHowTo.docx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/AngularCliAspNetCoreHowTo.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/assets/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/.angular-cli.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/.idea/AngularCliAspNetCore.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/AngularCliAspNetCore.csproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/AngularCliAspNetCoreHowTo.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/Controllers/HomeController.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/Program.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/Properties/PublishProfiles/fpmAngularCliAspNetCore - Web Deploy.pubxml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/Startup.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/appsettings.Development.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/appsettings.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/bundleconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/e2e/app.e2e-spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/e2e/app.e2e-spec.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/e2e/app.po.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/e2e/app.po.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/app/app-routing.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/app/app-routing.module.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/app/app.component.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/app/app.component.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/app/app.component.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/app/app.component.spec.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/app/app.module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/app/app.module.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/environments/environment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/environments/environment.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/environments/environment.prod.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/environments/environment.prod.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/main.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/polyfills.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/polyfills.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/dist/out-tsc/src/test.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/e2e/app.e2e-spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/e2e/app.po.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/e2e/tsconfig.e2e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/karma.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/package-lock.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/protractor.conf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/app/app-routing.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/app/app.component.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/app/app.component.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/app/app.component.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/app/app.component.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/app/app.module.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/environments/environment.prod.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/environments/environment.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/main.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/polyfills.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/test.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/tsconfig.app.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/tsconfig.spec.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/src/typings.d.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/tsconfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AngularCliAspNetCore/tslint.json" />
+    <list default="true" id="d0025276-948c-4dfd-b352-c4395b2ed846" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vs/AngularCliAspNetCore/v15/.suo" afterPath="$PROJECT_DIR$/.vs/AngularCliAspNetCore/v15/.suo" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AngularCliAspNetCore.sln" afterPath="$PROJECT_DIR$/AngularCliAspNetCore.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -91,8 +23,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="0">
-                <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+              <first_editor relative-caret-position="832">
+                <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -120,11 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AngularCliAspNetCore/Controllers/HomeController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="598">
               <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AngularCliAspNetCore/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -180,8 +122,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -200,15 +140,12 @@
               <item name="AngularCliAspNetCore" type="462c0819:PsiDirectoryNode" />
               <item name="Controllers" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AngularCliAspNetCore" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AngularCliAspNetCore" type="462c0819:PsiDirectoryNode" />
-              <item name="Database.Models" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,7 +179,8 @@
       <option name="presentableId" value="Default" />
       <updated>1497059812704</updated>
       <workItem from="1497059815544" duration="314000" />
-      <workItem from="1497060669565" duration="46000" />
+      <workItem from="1497060669565" duration="367000" />
+      <workItem from="1497609611517" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="trying to fix broken github">
       <created>1497059898345</created>
@@ -258,19 +196,27 @@
       <option name="project" value="LOCAL" />
       <updated>1497059959583</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add the project sub-folder">
+      <created>1497060735615</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1497060735615</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="360000" />
+    <option name="totallyTimeSpent" value="1288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-16" y="-16" width="3872" height="2116" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24993415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32953313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953313" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -379,13 +325,49 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="trying to fix broken github" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to fix broken github" />
+    <MESSAGE value="add the project sub-folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="add the project sub-folder" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularCliAspNetCore/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularCliAspNetCore/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -424,8 +406,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <first_editor relative-caret-position="832">
+            <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
@@ -452,6 +434,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="598">
           <caret line="23" column="18" lean-forward="false" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AngularCliAspNetCore/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
