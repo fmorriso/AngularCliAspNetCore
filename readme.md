@@ -17,8 +17,11 @@ https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/
 ## Introduction
 https://github.com/aspnet/Docs/blob/master/aspnetcore/data/ef-mvc/intro.md
 
-#index to all 10 parts of the tutorial
+## index to all 10 parts of the tutorial
 https://github.com/aspnet/Docs/blob/master/aspnetcore/data/ef-mvc/index.md
+
+## Completed App Download Link
+https://github.com/aspnet/Docs/tree/master/aspnetcore/data/ef-mvc/intro/samples/cu-final
 
 ## 1 of 10
 
