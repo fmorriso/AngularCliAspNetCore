@@ -20,7 +20,7 @@ https://github.com/aspnet/Docs/blob/master/aspnetcore/data/ef-mvc/intro.md
 ## index to all 10 parts of the tutorial
 https://github.com/aspnet/Docs/blob/master/aspnetcore/data/ef-mvc/index.md
 
-## Completed App Download Link
+## Completed App on GitHub
 https://github.com/aspnet/Docs/tree/master/aspnetcore/data/ef-mvc/intro/samples/cu-final
 
 ## 1 of 10
@@ -28,8 +28,8 @@ https://github.com/aspnet/Docs/tree/master/aspnetcore/data/ef-mvc/intro/samples/
 Getting started with ASP.NET Core MVC and Entity Framework Core using Visual Studio (1 of 10)
 https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/intro
 
-## Completed Application
-https://github.com/aspnet/Docs/tree/master/aspnetcore/data/ef-mvc/intro/samples/cu-final
+## 2 of 10 
+[Create, Read, Update, and Delete](https://docs.microsoft.com/en-us/aspnet/core/data/ef-mvc/crud)
 
-## GitHub code
-https://github.com/aspnet/Docs/tree/master/aspnetcore/data/ef-mvc/intro/samples/cu-final
+## 3 of 10
+
